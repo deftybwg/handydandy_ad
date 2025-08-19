@@ -1,3 +1,3 @@
 ####Scripts:
 
-startup.sh - Quickly add a subnet to your network interface & start the ligolo server
+startup.sh - Quickly add the initial subnet to an initial ligolo interface & start the ligolo proxy server
